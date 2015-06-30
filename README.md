@@ -1,5 +1,6 @@
 start README
 <<<<<<< HEAD
 I'm updating README.
-complete...
+
+my name is Proton
 
