@@ -1,3 +1,5 @@
 start README
+<<<<<<< HEAD
 I'm updating README.
-test edit update readmegygyhujuh
+complete...
+
